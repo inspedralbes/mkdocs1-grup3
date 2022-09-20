@@ -1,1 +1,6 @@
 site_name: Grup 3
+
+nav:
+  - Inici: index.md
+  - M12: m12.md
+
