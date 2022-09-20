@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# INSTITUT PEDRALBES
+## 
+Centre Educatiu de ESO, BATXILLERAT, CFGM, CFGS  
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+ - Av. d'Esplugues, 40, 08034 Barcelona  
 
-## Commands
+ - Telèfon 932 03 33 32  
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+ - Província: Barcelona  
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Instituto Pedralbes de Barcelona | Opiniones y Precios 2022 - Micole](https://www.micole.net/imagenes/colegio/logo/19888/pedralbes_512.png?v=MjAyMi0wOS0wMSAxMDozMDoxOQ==)
